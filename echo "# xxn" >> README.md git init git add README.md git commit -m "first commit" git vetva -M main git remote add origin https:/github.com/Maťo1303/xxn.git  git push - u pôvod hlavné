@@ -1,0 +1,7 @@
+echo "# xxn" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git vetva -M main 
+git remote add origin https://github.com/Mato1303/xxn.git
+ git push - u pôvod hlavné
